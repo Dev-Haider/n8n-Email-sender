@@ -1,7 +1,7 @@
 📄 My Sub-workflow
 This repository contains an n8n sub-workflow that integrates AI-powered conversation handling with Gmail to automatically respond to chat messages.
 
-✨ Features
+✨ Features                                
 ✅ Listens for incoming chat messages via a webhook
 ✅ Uses Google Gemini (PaLM) as the AI language model to generate responses
 ✅ Automatically composes and sends emails with Gmail
